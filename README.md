@@ -1,5 +1,7 @@
 How to test:
 
+https://brodev-forkify.netlify.app/
+
 1. Type into the search bar to view recipes
 2. Select a recipe from the results on the left
 3. The recipe is now loaded - you can change the amount of servings
